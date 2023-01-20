@@ -21,30 +21,30 @@
   <a href="#license">License</a>
 </p>
 
-<img src="assets/images/sampleImage.png" width="100%">
+<img src="assets/images/sampleImage2.png" width="100%">
 
 <br>
 
-# About the Project
+## About the Project
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at lacinia mauris. Donec consequat ligula sapien. Fusce vitae vestibulum diam. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec suscipit dapibus ligula, non maximus augue tempor a. Etiam sed dolor magna. Praesent rhoncus urna eu ipsum accumsan dignissim.
 
-# Project Notes
+## Project Notes
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at lacinia mauris. Donec consequat ligula sapien. Fusce vitae vestibulum diam.
 - Lorem ipsum dolor sit amet, _consectetur adipiscing elit_. Aenean at lacinia mauris. Donec consequat _ligula sapien_. Fusce vitae vestibulum diam.
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 
-# Gallery
+## Gallery
 
 <div align="center">
 
 ### Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-<img src="assets/images/sampleImage.png">
+<img src="assets/images/sampleImage1.png">
 
 <br>
 
 ### Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-<img src="assets/images/sampleImage.png">
+<img src="assets/images/sampleImage2.png">
 
 </div>
 
