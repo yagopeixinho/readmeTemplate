@@ -50,7 +50,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at lacinia mauri
 
 <br>
 
-# Getting Started?
+## Getting Started?
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at lacinia mauris. Donec consequat ligula sapien. Fusce vitae vestibulum diam. 
 ~~~bash
 # Lorem ipsum dolor sit amet
@@ -58,16 +58,15 @@ $ git clone git@github.com:yagopeixinho/readmeTemplate.git
 ~~~
 
 
+## Contributing
 
-# Contributing
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at lacinia mauris.
 
-Feel free to send as many _pull-request_ as you wish and I will gladly review it!
+## Contacting
 
-# Contacting
-
-- 📬 Send me an e-mail: peixinhoyago@gmail.com
-- If you have any questions or want to contact me for any other reason, you can find my social networks and more information about me [by clicking here](https://github.com/yagopeixinho/yagopeixinho/blob/master/README.md)
+- 📬 Lorem ipsum dolor sit amet: loremipsumdolor@sitamet.com
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at lacinia mauris. Donec consequat ligula sapien. Fusce vitae vestibulum diam. [Lacinia mauris](https://github.com/yagopeixinho/yagopeixinho/blob/master/README.md)
 
 ## License
 
-This project is licensed under the MIT License. [Click here for more details](https://github.com/yagopeixinho/vouAoMercado/blob/master/LICENSE)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. [Lorem ipsumm dolor siti](https://github.com/yagopeixinho/vouAoMercado/blob/master/LICENSE)
